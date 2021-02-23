@@ -1,6 +1,6 @@
 # TargetPracticeMania
 
-:rocket:[Website](https://connorholm.github.io/TargetPracticeWebsite/)
+:rocket: [Website](https://connorholm.github.io/TargetPracticeWebsite/)
 <br>
 This is the website used for my app Target Practice Mania!
 
